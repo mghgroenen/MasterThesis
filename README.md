@@ -1,1 +1,1 @@
-The analytical part of my original master's thesis from 2018, but done using Python in 2020. Used as a final exercise after a period of learning data analysis in Python. The files in this repository contain the code and the final document (in Dutch).
+The analytical part of my original master's thesis from 2018, but done using Python in 2020. Done as a final exercise after a period of learning data analysis in Python. The files in this repository contain the code and the final document (in Dutch).
